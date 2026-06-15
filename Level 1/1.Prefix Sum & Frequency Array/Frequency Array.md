@@ -6,6 +6,9 @@ https://youtu.be/Y_LiOgx4KCM?si=-VN76iJB_7SqqaVw
 ## Prefix Sum: 
 https://youtu.be/UdenHTX9sOg?si=cKVmRq67ZagRUEBQ
 
+## Prefix sum 2d :
+https://youtu.be/WibxoqMSMCw?si=EMP7slMSPDl8OfFj
+
 Sheet :
 * [Problem 1](https://codeforces.com/group/c3FDl9EUi9/contest/262795/problem/A)
 * [Problem 2](https://codeforces.com/group/c3FDl9EUi9/contest/262795/problem/B)
