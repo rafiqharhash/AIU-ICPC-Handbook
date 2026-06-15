@@ -1,8 +1,3 @@
-/*
-Difference Array takes : O(N+Q)
-Brute force : O(NQ)
-*/
-
 #include <bits/stdc++.h>
 
 using namespace std;
