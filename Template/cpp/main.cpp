@@ -20,12 +20,14 @@ void solve() {
 
 signed main() {
 
-    ios::sync_with_stdio(false);cin.tie(0);cout.tie(NULL);
+    ios::sync_with_stdio(false);cin.tie(0);cout.tie(NULL); // fast input and output
+
+    // Working with files, delete it if you don't need it
     #ifndef ONLINE_JUDGE
             freopen("in.txt", "r", stdin);
             freopen("out.txt", "w", stdout);
     #endif
-
+    
     int t = 1;
     // cin >> t;
     while (t--) {
