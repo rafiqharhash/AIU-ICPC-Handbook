@@ -9,7 +9,7 @@ void solve(){
     cin >> n >> m >> q;
     vector<vector<int>> arr(n+1,vector<int>(m+1));
     vector<vector<int>> prefix(n+1,vector<int>(m+1));
-    for(int i =1;i <= n;i++){
+    for(int i =1;i <= n;i++) {
         for(int j = 1; j <=m ; j++){
             cin >> arr[i][j];
             prefix[i][j] = prefix[i-1][j] + prefix[i][j-1] - prefix[i-1][j-1] + arr[i][j];
