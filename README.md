@@ -34,10 +34,11 @@ A collection of algorithms and templates for competitive programming.
 
 # Resources
 
-* **Mahmoud Ayman Playlist:** [https://www.youtube.com/watch?v=9YUWFoWMfUY&list=PLIOhtFzqhbbGroes7my01e8x6GtP71Ah4](https://www.youtube.com/watch?v=9YUWFoWMfUY&list=PLIOhtFzqhbbGroes7my01e8x6GtP71Ah4)
+| Resource Name | Type / Description | Link |
+| --- | --- | --- |
+| **CPH Handbook** | Book / Guide | [View PDF](https://usaco.guide/CPH.pdf) |
+| **Mahmoud Ayman Playlist** | Video Course | [Watch on YouTube](https://www.youtube.com/watch?v=9YUWFoWMfUY&list=PLIOhtFzqhbbGroes7my01e8x6GtP71Ah4) |
+| **Assiut Sheet** | Problem Solving Sheet | [Open Google Sheet](https://docs.google.com/spreadsheets/d/1EbbsotAwb0zuuwxyzs8l2qh8twqw-sNcNbAjCK1kXaE/edit?fbclid=IwAR1yPY97Febc0VMrt-ZiSKBm_3phBKdnJp7Lp-n1QCx98ISaX9taBBKl-qw&gid=1792751979#gid=1792751979) |
+| **Previous ECPC** | Contest Archive / Blogs | [View on Codeforces](https://codeforces.com/group/Rilx5irOux/blog) |
+| **Mostafa Saad Sheet** | Problem Solving Sheet | [Open Google Sheet](https://docs.google.com/spreadsheets/d/1iJZWP2nS_OB3kCTjq8L6TrJJ4o-5lhxDOyTaocSYc-k/edit?usp=sharing) |
 
-* **Assiut Sheet:** [https://docs.google.com/spreadsheets/d/1EbbsotAwb0zuuwxyzs8l2qh8twqw-sNcNbAjCK1kXaE/edit?fbclid=IwAR1yPY97Febc0VMrt-ZiSKBm_3phBKdnJp7Lp-n1QCx98ISaX9taBBKl-qw&gid=1792751979#gid=1792751979](https://docs.google.com/spreadsheets/d/1EbbsotAwb0zuuwxyzs8l2qh8twqw-sNcNbAjCK1kXaE/edit?fbclid=IwAR1yPY97Febc0VMrt-ZiSKBm_3phBKdnJp7Lp-n1QCx98ISaX9taBBKl-qw&gid=1792751979#gid=1792751979)
-
-* **Previous ECPC:** [https://codeforces.com/group/Rilx5irOux/blog](https://codeforces.com/group/Rilx5irOux/blog)
-
-* **Mostafa Saad Sheet:** [https://docs.google.com/spreadsheets/d/1iJZWP2nS_OB3kCTjq8L6TrJJ4o-5lhxDOyTaocSYc-k/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1iJZWP2nS_OB3kCTjq8L6TrJJ4o-5lhxDOyTaocSYc-k/edit?usp=sharing)
