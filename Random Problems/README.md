@@ -59,5 +59,7 @@
 | Marisa Steals Reimu's Takeout | [Go to Problem](https://codeforces.com/problemset/problem/2228/A) |
 | Everything Everywhere | [Go to Problem](https://codeforces.com/problemset/problem/2226/B) |
 | OIE Excursion | [Go to Problem](https://codeforces.com/problemset/problem/2220/B) |
-| Zhily and Bracket Swapping | [Go to Problem](https://www.google.com/search?q=https://codeforces.com/problemset/problem/2223A) |
+| Zhily and Bracket Swapping | [Go to Problem](https://codeforces.com/problemset/problem/2223/A) |
 | Elections in Saransk (easy version) | [Go to Problem](https://codeforces.com/problemset/problem/2236/F1) |
+| Omsk Programmers | [Go to problem](https://codeforces.com/problemset/problem/2236/C) |
+| Brand New Tatar TV Show | [Go to problem](https://codeforces.com/problemset/problem/2236/D) |
