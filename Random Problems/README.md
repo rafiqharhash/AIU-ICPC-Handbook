@@ -1,3 +1,14 @@
+## Warm-up
+
+| Name | Link |
+| --- | --- |
+| Watermelon | [Go to Problem](https://codeforces.com/problemset/problem/4/A) |
+| Even Array | [Go to Problem](https://codeforces.com/problemset/problem/1726/A) |
+| Helpful Maths | [Go to Problem](https://codeforces.com/problemset/problem/339/A) |
+| Beautiful Matrix | [Go to Problem](https://codeforces.com/problemset/problem/263/A) |
+| Petya and Strings | [Go to Problem](https://codeforces.com/problemset/problem/196/A) |
+---
+
 ## Random Problems: Set 1
 
 | Name | Link |
