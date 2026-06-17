@@ -1,5 +1,3 @@
-Here is your study material and practice sheet neatly organized into well-structured Markdown tables:
-
 ## Study Resources
 
 ### 1. good notion from Computer Engineering Alexandria
