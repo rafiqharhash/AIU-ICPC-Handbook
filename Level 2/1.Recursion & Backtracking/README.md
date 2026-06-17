@@ -1,8 +1,9 @@
-## Study Resource
+## Study Resources
 
-| Type | Topic | Resource Link |
+| Type | Topic / Description | Resource Link |
 | --- | --- | --- |
-| **Video Lecture** | Recursion & Backtracking - Level 2 Training | [Watch on YouTube](https://youtu.be/IvZjGEitEOI?si=SgESpJ2lZRv4n_5Z) |
+| **Video Lecture 1** | Recursion & Backtracking - Level 2 Training (acmASCIS) | [Watch on YouTube](https://youtu.be/IvZjGEitEOI?si=SgESpJ2lZRv4n_5Z) |
+| **Video Lecture 2** | Recursion & Complete Search (Backtracking, Permutations, Bitmasking) | [Watch on YouTube](https://youtu.be/61yhQEjwfPQ?si=QGuK4GzPnj4tcgql) |
 
 ---
 
